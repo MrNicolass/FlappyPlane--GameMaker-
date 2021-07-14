@@ -1,0 +1,60 @@
+✔ = FETIO
+
+1 - Player
+	1.1 - Importando as sprits do avião - ✔
+	1.2 - Criar objeto do avião, colocar a sprite no mesmo e colocar na room - ✔
+	1.3 - Cair ao iniciar jogo (Física) - ✔
+	1.4 - Subir ao apertar "space" - ✔
+	1.5 - Simulando a gravidade continua (para não apertar espaço e subir para sempre) - ✔
+	1.6 - Limitando a velocidade de queda do avião - ✔
+	1.7 - Reiniciar ao bater na montanha - ✔ 
+	1.8 - Criar uma fumaça sempre que ele subir - ✔
+	1.9 - Melhorando a fumaça (crescer) - ✔
+	1.10 - Melhorando a fumaça (desaparecer) - ✔
+	1.11 - Reiniciar o jogo, ao sair da tela - ✔
+	
+2 - Obstáculos
+	2.1 - Criar as sprits das montanhas - ✔
+	2.2 - Criar o objeto das montanhas - ✔
+	2.3 - Ajustas espaço entre montanhas - ✔
+	2.4 - Fazer as montanhas virem até o player - ✔
+
+3 - Geração Procedural dos obstáculos
+	3.1 - Criando um evento que repete a criação - ✔
+	3.2 - Criando as Montanhas (de cima e de baixo) - ✔
+	3.3 - Alterando a frequência de criação das montanhas - ✔
+	3.4 - Alterando a posição das montanhas - ✔
+	3.5 - Ajustar o intervalo das montanhas ao level do jogo - 
+	
+4 - Background
+	4.1 - Criando a sprit do background - ✔
+	4.2 - Colocar sprit no background - ✔
+	4.3 - Dar efeito de movimento no background (usando o "Horizontal tile" para repitir para sempre) - ✔
+	4.4 - Ganhando velocidade conforme o level - ✔
+	4.5 - Criando sprites do chão - ✔
+	
+5 - Sistema de Pontos
+	5.1 - Iniciando o sistema - ✔
+	5.2 - Ganhando pontos - ✔
+	5.3 - Exibindo os pontos - ✔
+	5.4 - Escrevendo "pontos" antes dos pontos - ✔
+	5.5 - Mudando a Font do jogo - ✔
+	5.6 - Ganhando mais pontos conforme o level - ✔
+	
+6 - Sistema de Levels
+	6.1 - Iniciando o sistema - ✔
+	6.2 - Ganhando Level - ✔
+	6.3 - Exibindo o Level - ✔
+	6.4 - Aumentando a Difículdade (velocidade das montanhas dependendo do level) - ✔
+	
+7 - Sons do Jogo
+	7.1 - Importando os sons - ✔
+	7.2 - Iniciando a música quando começar o jogo - ✔
+	7.3 - Importando som de Level Up - ✔
+	7.4 - Tocar som de Level Up quando subir de level - ✔
+	
+8 - Tela inicial do jogo
+	8.1 - Criando a room - ✔
+	8.2 - Criando a sprite de inicio - ✔
+	8.3 - Criando a animação da sprite - ✔
+	8.4 - Iniciando o jogo ao apertar "space" - 
